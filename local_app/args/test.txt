@@ -1,0 +1,3 @@
+ToText	http://www.cs.bgu.ac.il/~dsp142/wiki.files/202-1-5391.pdf
+ToImage	http://www.cs.bgu.ac.il/~dsp142/wiki.files/202-1-5391.pdf
+ToHTML	http://www.cs.bgu.ac.il/~dsp142/wiki.files/202-1-5391.pdf
